@@ -1,8 +1,8 @@
-# 🎓 Course Portfolio — <Le Tan Phuc>
+# 🎓 Course Portfolio — Le Tan Phuc
 
 > Personal progress page for CSCI4208. Keep this file updated as you complete labs, projects, and capstone milestones.
 
-- **Name:** <Le Tan Phuc>
+- **Name:** Le Tan Phuc
 - **Project Board (Project v2):** <https://github.com/users/LeTanPhuc-01/projects/1/>
 - **Live Portfolio (GitHub Pages):** <https://letanphuc-01.github.io/csci4208-portfolio-2025/>
 
@@ -85,9 +85,9 @@
 
 ## 🧰 Handy links
 
-- **Project board:** <paste URL>  
-- **Live portfolio:** <paste URL>  
-- **Instructor roadmap (source of truth):** <link to instructor repo or roadmap.json>
+- **Project board:** <https://github.com/users/LeTanPhuc-01/projects/1/>  
+- **Live portfolio:** N/A  
+- **Instructor roadmap (source of truth):** <https://github.com/scalemailted/FullStackApps/>
 
 ---
 
@@ -99,5 +99,5 @@
 
 ---
 
-<sub>Last updated: <!-- yyyy-mm-dd --> </sub>
+<sub>Last updated:  2025-09-12  </sub>
 
