@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <p>There is a number between 000-999.</p>
+    <p id="attempts">Number of attempts left: 10</p>
+    <span>Enter a Guess:</span>
+
+    <div>
+        <img src="assets/button-up.gif" id="up-100s" width="100" />
+        <img src="assets/button-up.gif" id="up-10s" width="100" />
+        <img src="assets/button-up.gif" id="up-1s" width="100" />
+    </div>
+    <div>
+        <img src="assets/0.png" id="digit-100s" width="100" />
+        <img src="assets/0.png" id="digit-10s" width="100" />
+        <img src="assets/0.png" id="digit-1s" width="100" />
+    </div>
+    <div>
+        <img src="assets/button-down.gif" id="down-100s" width="100" />
+        <img src="assets/button-down.gif" id="down-10s" width="100" />
+        <img src="assets/button-down.gif" id="down-1s" width="100" />
+    </div>
+
+    <div>
+        <img src="assets/button-enter.png" id="guess-button" width="300">
+    </div>
+    <!-- <input type="button" value='Submit' id="guess-button"> -->
+    <ul id="clues"></ul>
+    <script src="scripts/Guess.js"></script>
+    <script src="scripts/views.js"></script>
+    <script src="scripts/model.js"></script>
+    <script src="scripts/controller.js"></script>
+</body>
+
+</html>
