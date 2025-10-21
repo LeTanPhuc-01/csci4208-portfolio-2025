@@ -31,7 +31,6 @@
 | Lab-02 — CSS: Crash Course [#2](https://github.com/LeTanPhuc-01/csci4208-portfolio-2025/issues/2) | `lab-02` | closed |
 | Lab-03 — Bootstrap: Responsive Portfolio [#3](https://github.com/LeTanPhuc-01/csci4208-portfolio-2025/issues/3) | `lab-03` | approved |
 | Lab-04 — JavaScript Basics: Hi–Lo Game (MVP → MVC) [#6](https://github.com/LeTanPhuc-01/csci4208-portfolio-2025/issues/6) | `lab-04` | completed |
-| Lab-05 — JavaScript OOP + Phaser: Dodger Game [#26](https://github.com/LeTanPhuc-01/csci4208-portfolio-2025/issues/26) | `lab-05` | closed |
 | Lab-05 — JavaScript OOP + Phaser: Dodger Game [#25](https://github.com/LeTanPhuc-01/csci4208-portfolio-2025/issues/25) | `lab-05` | closed |
 | Lab-05 — JavaScript OOP + Phaser: Dodger Game [#24](https://github.com/LeTanPhuc-01/csci4208-portfolio-2025/issues/24) | `lab-05` | closed |
 | Lab-05 — JavaScript OOP + Phaser: Dodger Game [#23](https://github.com/LeTanPhuc-01/csci4208-portfolio-2025/issues/23) | `lab-05` | closed |
