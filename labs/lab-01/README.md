@@ -1,0 +1,4 @@
+# Lab - 1 Reflection
+> Build an Interative multi-page Story game using basic **HTML and just a bit of inline JS**
+## My reflection
+This lab introduced me to the basics of HTML and how it defines the structure of a web page. I learned about elements, attributes, and the foundation of an HTML page. It also helped me understand how a web browser functions as a client that displays HTML documents using HTTP or file protocols. I gained a clearer picture of how browsers parse and render web pages, and how JavaScript runs inside the browser’s runtime environment, which normally resets on page reloads, leading to the need for Single Page Applications (SPAs) to maintain a continuous runtime.
