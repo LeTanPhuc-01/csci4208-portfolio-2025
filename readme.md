@@ -109,3 +109,21 @@
 
 <sub>Last updated:  2025-09-12  </sub>
 
+## ✅ Submission Status (automatically updated)
+<!-- STATUS:START -->
+| Item | Key | Status |
+|---|---|---|
+| Capstone-01 — Find a Team [#5](https://github.com/LeTanPhuc-01/csci4208-portfolio-2025/issues/5) | `capstone-01` | open |
+| Lab-01 — HTML-first Interactive Game (minimal JS) [#1](https://github.com/LeTanPhuc-01/csci4208-portfolio-2025/issues/1) | `lab-01` | approved |
+| Lab-02 — CSS: Crash Course [#2](https://github.com/LeTanPhuc-01/csci4208-portfolio-2025/issues/2) | `lab-02` | closed |
+| Lab-03 — Bootstrap: Responsive Portfolio [#3](https://github.com/LeTanPhuc-01/csci4208-portfolio-2025/issues/3) | `lab-03` | approved |
+| Lab-04 — JavaScript Basics: Hi–Lo Game (MVP → MVC) [#6](https://github.com/LeTanPhuc-01/csci4208-portfolio-2025/issues/6) | `lab-04` | completed |
+| Lab-05 — JavaScript OOP + Phaser: Dodger Game [#7](https://github.com/LeTanPhuc-01/csci4208-portfolio-2025/issues/7) | `lab-05` | closed |
+| Lab-06 — REST Client: Quiz Game + Leaderboard (Modules + Fetch) [#10](https://github.com/LeTanPhuc-01/csci4208-portfolio-2025/issues/10) | `lab-06` | closed |
+| Lab-07 — Browser Data Layer: Mock Document DB [#28](https://github.com/LeTanPhuc-01/csci4208-portfolio-2025/issues/28) | `lab-07` | open |
+| Project-0 — Set up Repo, Project Board, Actions & Pages [#8](https://github.com/LeTanPhuc-01/csci4208-portfolio-2025/issues/8) | `project-00` | closed |
+| Project-01 — Interactive Game in HTML & CSS [#4](https://github.com/LeTanPhuc-01/csci4208-portfolio-2025/issues/4) | `project-01` | approved |
+| Project-02 — Sprint 3: Full Feature Set & Polish [#13](https://github.com/LeTanPhuc-01/csci4208-portfolio-2025/issues/13) | `project-02` | open |
+| Project-02 — Sprint 2: MVP Vertical Slice [#12](https://github.com/LeTanPhuc-01/csci4208-portfolio-2025/issues/12) | `project-02` | open |
+| Project-02 — Sprint 1: Pitch & Roadmap Proposal [#11](https://github.com/LeTanPhuc-01/csci4208-portfolio-2025/issues/11) | `project-02` | open |
+<!-- STATUS:END -->
